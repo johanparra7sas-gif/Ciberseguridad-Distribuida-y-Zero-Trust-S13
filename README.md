@@ -16,9 +16,10 @@ en sistemas distribuidos.
 3. AgroSugar: microsegmentación con NetworkPolicy.
 
 ## Integrantes
-- Marco Antonio Segura Cuero
-- Juan Pablo Martinez Gamboa 
 - Johan Santiago Agudelo Manzanares
+- Juan Pablo Martinez Gamboa 
+- Marco Antonio Segura Cuero
+
 
 ## Estado
 Preparación del entorno de laboratorio.
