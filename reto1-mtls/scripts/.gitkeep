@@ -1,0 +1,18 @@
+./emitir-bus.sh 102 105
+Certificate request self-signature ok
+subject=C = CO, O = MetroMIO, OU = Flota, CN = bus-102
+Emitido bus-102
+notAfter=Dec 21 17:10:05 2026 GMT
+Certificate request self-signature ok
+subject=C = CO, O = MetroMIO, OU = Flota, CN = bus-103
+Emitido bus-103
+notAfter=Dec 21 17:10:05 2026 GMT
+Certificate request self-signature ok
+subject=C = CO, O = MetroMIO, OU = Flota, CN = bus-104
+Emitido bus-104
+notAfter=Dec 21 17:10:05 2026 GMT
+Certificate request self-signature ok
+subject=C = CO, O = MetroMIO, OU = Flota, CN = bus-105
+Emitido bus-105
+notAfter=Dec 21 17:10:05 2026 GMT
+Proceso de emisión finalizado.
