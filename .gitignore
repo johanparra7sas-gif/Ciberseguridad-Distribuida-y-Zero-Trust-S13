@@ -1,3 +1,11 @@
+# Discos virtuales
+*.img
 
+# Llaves privadas y archivos sensibles
+*.key
+*.keyfile
+
+# Respaldos de cabeceras LUKS
+*.bak
 
 
