@@ -20,3 +20,9 @@
 
 # Archivos locales
 .vscode/
+
+# Ejecutables de Kubernetes
+.Kind
+.Kubect1
+
+
