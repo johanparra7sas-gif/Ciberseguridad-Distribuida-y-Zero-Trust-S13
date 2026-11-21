@@ -1,0 +1,22 @@
+# Llaves privadas y solicitudes
+*.key
+*.csr
+*.srl
+*.keyfile
+*.pem
+
+# Discos y respaldos
+*.img
+*.bak
+
+# Contraseñas y secretos
+.env
+.env.*
+*-plano.yaml
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos locales
+.vscode/
