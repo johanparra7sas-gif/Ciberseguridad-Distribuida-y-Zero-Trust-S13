@@ -1,8 +1,12 @@
 
-# Claves privadas: nunca subir a GitHub
+# Ejecutables de herramientas
+kubectl
+kubeseal
+
+# Instaladores comprimidos
+*.tar.gz
+
+# Claves privadas
 *.key
 *.pem
-
-# Archivos comprimidos de instalación
-*.tar.gz
 
