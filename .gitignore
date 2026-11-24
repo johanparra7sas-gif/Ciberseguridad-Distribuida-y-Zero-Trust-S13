@@ -1,12 +1,39 @@
 
-# Ejecutables de herramientas
+# ==============================
+# SEGURIDAD: CLAVES Y CERTIFICADOS
+# ==============================
+*.key
+*.keyfile
+*.pem
+*.csr
+*.srl
+
+# ==============================
+# VARIABLES Y CREDENCIALES
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# COPIAS DE SEGURIDAD
+# ==============================
+*.bak
+
+# ==============================
+# ARCHIVOS DE INSTALACION
+# ==============================
+*.tar.gz
+*.img
+
+# ==============================
+# ARCHIVOS CON DATOS EN PLANO
+# ==============================
+*-plano.yaml
+
+# ==============================
+# HERRAMIENTAS EJECUTABLES
+# ==============================
 kubectl
 kubeseal
-
-# Instaladores comprimidos
-*.tar.gz
-
-# Claves privadas
-*.key
-*.pem
 
