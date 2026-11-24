@@ -1,8 +1,8 @@
+
+# Claves privadas: nunca subir a GitHub
 *.key
-*.csr
-*.srl
-*.img
-*.keyfile
-*.bak
-*-plano.yaml
-.env
+*.pem
+
+# Archivos comprimidos de instalación
+*.tar.gz
+
